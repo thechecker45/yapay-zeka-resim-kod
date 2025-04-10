@@ -5,21 +5,21 @@
 * Opensource Olması
 
 # Kullanım
-Bu Komutu Kullanırken Eğer Promptu İngilizce Girerseniz Daha İyi Sonuç Alırsınız
+* Bu Komutu Kullanırken Eğer Promptu İngilizce Girerseniz Daha İyi Sonuç Alırsınız
 ```
 !resimyap
 ```
-Örnek:
+* Örnek:
 ```
 !resimyap streets of tokyo on a rainy day
 ```
 
-Botun Tüm Komutlarına Erişmek İçin Şu Komutu Kullanın:
+* Botun Tüm Komutlarına Erişmek İçin Şu Komutu Kullanın:
 ```
 !yardım
 ```
 
-Otomatik Çeviri de Ekleyeceğim
+* Otomatik Çeviri de Ekleyeceğim
 
 # Instagramım
 Herhangi Bir Soru Sormak İsterseniz:
