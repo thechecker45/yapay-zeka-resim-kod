@@ -1,41 +1,39 @@
-1) Öncelikle https://stablehorde.net/ Sitesine Gidin
+1) Öncelikle https://stablehorde.net/ sitesine gidin.
 
-2) Register An Account Yazan Yere Tıklayın (https://stablehorde.net/register)
+2) Register An Account yazan yere tıklayın (https://stablehorde.net/register).
 
-3) Sonrasında Bir Display Name Belirleyin Text Kutucuğuna yazın ve submit deyin size bir apikey verecek
+3) Sonrasında bir Display Name belirleyin, text kutucuğuna yazın ve Submit deyin. Size bir API key verecek.
 
-4) Bu apikeyi kopyalayın ve biryere kaydedin
+4) Bu API key'i kopyalayın ve bir yere kaydedin.
 
-5) sonrasında Discord developer portala girin (https://discord.com/developers/applications)
+5) Sonrasında Discord Developer Portal’a girin (https://discord.com/developers/applications).
 
-6) sağ üstten new application butonuna basın ve botunuzun adını Belirleyin ve kutucuğu işaretleyip create butonuna basın
+6) Sağ üstten New Application butonuna basın, botunuzun adını belirleyin ve kutucuğu işaretleyip Create butonuna basın.
 
-7) hemen ardından sol taraftan bot sekmesine basın ve reset token diyin yes do it diyin ve size bir token vericek bunuda biryere kaydedin
+7) Hemen ardından sol taraftan Bot sekmesine basın. Reset Token deyin, Yes, do it deyin. Size bir token verecek, bunu da bir yere kaydedin.
 
-8) sonrasında aynı bot sekmesinden biraz aşağıya inince "Privileged Gateway Intents" diye bir yer olucak altında 3 tane buton olucak
-   onların 3 ünüde açın
+8) Sonrasında aynı Bot sekmesinden biraz aşağıya inince "Privileged Gateway Intents" diye bir yer olacak. Altında 3 tane buton olacak; onların 3’ünü de açın.
 
-9) save changes diyin ve yine soldan "OAuth2" sekmesine basın
+9) Save Changes deyin ve yine soldan "OAuth2" sekmesine basın.
 
-10) ardından "OAuth2 URL Generator" diye bir yer olucak ordan "bot" kutucuğunu bulup işaretleyin
+10) Ardından "OAuth2 URL Generator" diye bir yer olacak. Oradan "bot" kutucuğunu bulup işaretleyin.
 
-11) bir altındada "Bot Permissions" Kısmı olacak oradan Administrator seçin (Bunun sebebi Administrator'u Seçince Tüm İzinlerin Bota Gelmesidir)
+11) Bir altındaki "Bot Permissions" kısmında Administrator seçin. (Bunun sebebi, Administrator'u seçince tüm izinlerin bota gelmesidir.)
 
-12) "Generated URL" Yazan yerde bir bağlantı verecek o bağlantıdan sunucuya botu ekleyin
+12) "Generated URL" yazan yerde bir bağlantı verecek. O bağlantıdan sunucuya botu ekleyin.
 
-13) ardından satın aldığınız botun kalsöründeki bot.js adlı dosyayı açın
+13) Ardından satın aldığınız botun klasöründeki bot.js adlı dosyayı açın.
 
-14) "APIKEYINIZ" yazan yeri silin ve ilk siteden (https://stablehorde.net/register) aldığınız Api keyi girin
+14) "APIKEYINIZ" yazan yeri silin ve ilk siteden (https://stablehorde.net/register) aldığınız API key'i girin.
 
-15) en altta "Botunuzun Tokeni" yazan yeri silin ve oluşturduğunuz botun tokenini girin
+15) En altta "Botunuzun Tokeni" yazan yeri silin ve oluşturduğunuz botun tokenini girin.
 
-16) Ardından server.js dosyasını açın ve "APIKEYINIZ" yazan yeri silin ve ilk siteden (https://stablehorde.net/register) aldığınız Api keyi girin
+16) Ardından server.js dosyasını açın. "APIKEYINIZ" yazan yeri silin ve yine aynı şekilde aldığınız API key'i girin.
 
-17) Sonrasında modulleriyukle.bat dosyasını çalıştırın
+17) Sonrasında modulleriyukle.bat dosyasını çalıştırın.
 
-18) kapandıktan sonra calistir.bat dosyasını çalıştırın
+18) Kapandıktan sonra calistir.bat dosyasını çalıştırın.
 
-19) ve sonrasında botu eklediğiniz sunucuya gelip !yardım yazarak komutları görebilirsiniz ayrıca public sunucuda kullanıyorsanız-
-    log.txt de kimin hangi komutu kullandığı kaydediliyor.
+19) Ve sonrasında botu eklediğiniz sunucuya gelip !yardım yazarak komutları görebilirsiniz. Ayrıca, public sunucuda kullanıyorsanız log.txt dosyasında kimin hangi komutu kullandığı kaydediliyor.
 
-maded by: TheChecker
+Made by: TheChecker
