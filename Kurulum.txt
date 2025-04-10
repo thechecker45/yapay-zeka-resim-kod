@@ -1,0 +1,41 @@
+1) Öncelikle https://stablehorde.net/ Sitesine Gidin
+
+2) Register An Account Yazan Yere Tıklayın (https://stablehorde.net/register)
+
+3) Sonrasında Bir Display Name Belirleyin Text Kutucuğuna yazın ve submit deyin size bir apikey verecek
+
+4) Bu apikeyi kopyalayın ve biryere kaydedin
+
+5) sonrasında Discord developer portala girin (https://discord.com/developers/applications)
+
+6) sağ üstten new application butonuna basın ve botunuzun adını Belirleyin ve kutucuğu işaretleyip create butonuna basın
+
+7) hemen ardından sol taraftan bot sekmesine basın ve reset token diyin yes do it diyin ve size bir token vericek bunuda biryere kaydedin
+
+8) sonrasında aynı bot sekmesinden biraz aşağıya inince "Privileged Gateway Intents" diye bir yer olucak altında 3 tane buton olucak
+   onların 3 ünüde açın
+
+9) save changes diyin ve yine soldan "OAuth2" sekmesine basın
+
+10) ardından "OAuth2 URL Generator" diye bir yer olucak ordan "bot" kutucuğunu bulup işaretleyin
+
+11) bir altındada "Bot Permissions" Kısmı olacak oradan Administrator seçin (Bunun sebebi Administrator'u Seçince Tüm İzinlerin Bota Gelmesidir)
+
+12) "Generated URL" Yazan yerde bir bağlantı verecek o bağlantıdan sunucuya botu ekleyin
+
+13) ardından satın aldığınız botun kalsöründeki bot.js adlı dosyayı açın
+
+14) "APIKEYINIZ" yazan yeri silin ve ilk siteden (https://stablehorde.net/register) aldığınız Api keyi girin
+
+15) en altta "Botunuzun Tokeni" yazan yeri silin ve oluşturduğunuz botun tokenini girin
+
+16) Ardından server.js dosyasını açın ve "APIKEYINIZ" yazan yeri silin ve ilk siteden (https://stablehorde.net/register) aldığınız Api keyi girin
+
+17) Sonrasında modulleriyukle.bat dosyasını çalıştırın
+
+18) kapandıktan sonra calistir.bat dosyasını çalıştırın
+
+19) ve sonrasında botu eklediğiniz sunucuya gelip !yardım yazarak komutları görebilirsiniz ayrıca public sunucuda kullanıyorsanız-
+    log.txt de kimin hangi komutu kullandığı kaydediliyor.
+
+maded by: TheChecker
